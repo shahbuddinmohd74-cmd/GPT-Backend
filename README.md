@@ -17,7 +17,7 @@ A modular backend application built with **Node.js and Express.js**, designed to
 
 - **Runtime:** Node.js
 - **Backend Framework:** Express.js
-- **Database:** MongoDB (if configured in your project)
+- **Database:** MongoDB 
 - **Caching / Data Services:** Redis
 - **Authentication:** JWT-based authentication (if enabled in your implementation)
 - **API Testing:** Postman
